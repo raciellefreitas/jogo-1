@@ -1,6 +1,6 @@
 <fable>
 	<page background="bg.png" soundtrack="song.mp3">
-        <agent x="40" y="200" text="oi mundo" color="red" font-size="20" height="85" sprite=
+        <agent x="40" y="200" text="oi mundo" color="red" font-size="20" height="85" 
         
   
     
