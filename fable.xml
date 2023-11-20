@@ -1,5 +1,6 @@
 <fable>
-	<page background=>
+	<page background="bg.png" soundtrack="song.mp3">
+        
   
     
   </page>
